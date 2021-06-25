@@ -41,7 +41,12 @@ We also used Python, Pandas functions and methods, and SQLAlchemy for the analys
 
 To better compare the two months and verify the two mnths were pleasant enough for surfing and ice-cream, two more quesries were performed on the sqlite database. We compared the precipitations in the two months as follows:
 
+### 1. Query to calculate the amount of percepitations in June
 
+results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
+df = pd.DataFrame(results, columns=['date','precipitation'])
+df.set_index(df['date'], inplace=True)
+df.describe()
 
 #### Figure 2: Comparative analysis of precipitations between the months of June and December.
 
@@ -55,7 +60,7 @@ To better compare the two months and verify the two mnths were pleasant enough f
 
 ???????????? there are two additional queries to perform to gather more weather data for June and December.
 
-In order
+
 
 
 -----------------------
