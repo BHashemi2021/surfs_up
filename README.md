@@ -1,7 +1,7 @@
 # Surfs Up
 ##### Advanced Data Storage and Retrieval.
 --------------------------
-![Surfing-boards.png](https://github.com/BHashemi2021/surfs_up/blob/main/Resources/Surfing-boards.png/style=centerme)
+![Surfing-boards.png](https://github.com/BHashemi2021/surfs_up/blob/main/Resources/Surfing-boards.png/?style=centerme)
 
 --------------------------
  
