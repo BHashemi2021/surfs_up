@@ -88,5 +88,5 @@ All in all, the average temperatures between the months of June and December are
 Hawaii is popular tourist destination all year round nearly 750 miles of coastline, diverse landscape in the middle of a backdrop of mountains, warm tropical climate, and abundant public beaches. The best time to visit Hawaii is from May to October in the dry season, particularly in May and June, as the summer temperatures are not extreme. There is regular threat of thunderstorms and hurricanes (mostly non-destrucive) from July to December (1).
 
 
-##### References:
+#### References:
 1- Monthly weather forecast and climate Hawaii, USA, accessed June 25, 2021 at: https://www.weather-us.com/en/hawaii-usa-climate
