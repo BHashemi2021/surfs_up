@@ -7,9 +7,9 @@
  
 
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
 
-## Background
+Hawaii is popular tourist destination all year round nearly 750 miles of coastline, diverse landscape in the middle of a backdrop of mountains, warm tropical climate, and abundant public beaches. The best time to visit Hawaii is from May to October in the dry season, particularly in May and June, as the summer temperatures are not extreme. There is regular threat of thunderstorms and hurricanes (mostly non-destrucive) from July to December (1).
+
 Upon a trip to Oahu, Hawaii, we fall in love with the place and decide to move there. In a meeting with W. Avy, a very successful surfer, we understand he needs to be cognisant of the weather conditions if he plans to be successful in in his second attempt to open a sports shop there. After the first meeting, we created a weather analysis to share with him.
 
 W. Avy likes our analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
@@ -84,8 +84,6 @@ All in all, the average temperatures between the months of June and December are
 
 
 
-----------------------------------------------------------------------------------
-Hawaii is popular tourist destination all year round nearly 750 miles of coastline, diverse landscape in the middle of a backdrop of mountains, warm tropical climate, and abundant public beaches. The best time to visit Hawaii is from May to October in the dry season, particularly in May and June, as the summer temperatures are not extreme. There is regular threat of thunderstorms and hurricanes (mostly non-destrucive) from July to December (1).
 
 
 #### References:
