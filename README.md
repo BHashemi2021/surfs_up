@@ -24,37 +24,41 @@ We also used Python, Pandas functions and methods, and SQLAlchemy for the analys
 
 
 ## Results:
-The results of the analysis showed that the average temperature between the months of June and December were nearly the same (74.9°F vs 71°F, respectively) as were the maximum temperatres between the two months (86°F vs 83°F), Figure 1.
+ 1- The results of the analysis showed that the average temperature between the months of June and December were nearly the same (74.9 °F vs 71 °F, respectively). 
+ 
+ 2- Tthe maximum temperatres between the two months of June and December were nearly the same too (86 °F vs 83 °F), Figure 1.
 
-
-Figure 1: Comparative analysis of temperature between the months of June and December.
+ 3- On the other hand tThe minimum temperatures were rather different between the two months of June and December (64 °F vs °56 F), Figure 1.
+ 
+ 
+ 
+#### Figure 1: Comparative analysis of temperature between the months of June and December.
 
 -------------------
 ![3-comparative-temp.png](https://github.com/BHashemi2021/surfs_up/blob/main/Resources/3-comparative-temp.png)
 
 -------------------
 
-There is a bulleted list that addresses the three key differences in weather between June and December. 
-
-Use images as support where needed.
-
-## Summary: 
-
-There is a high-level summary of the results and 
-
-$$$$ there are two additional queries to perform to gather more weather data for June and December.
+To better compare the two months and verify the two mnths were pleasant enough for surfing and ice-cream, two more quesries were performed on the sqlite database. We compared the precipitations in the two months as follows:
 
 
 
-Figure 2: Comparative analysis of precipitations between the months of June and December.
+#### Figure 2: Comparative analysis of precipitations between the months of June and December.
 
 -----------------------
 ![3-comparative-percip.png](https://github.com/BHashemi2021/surfs_up/blob/main/Resources/3-comparative-percip.png)
 
+
+## Summary: 
+
+???????????? There is a high-level summary of the results and 
+
+???????????? there are two additional queries to perform to gather more weather data for June and December.
+
+In order
+
+
 -----------------------
 
 
-
-Figure :
-![]()
 
