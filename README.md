@@ -43,10 +43,12 @@ To better compare the two months and verify the two mnths were pleasant enough f
 
 ### 1. Query to calculate the amount of percepitations in June
 
+```ruby
 results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
 df = pd.DataFrame(results, columns=['date','precipitation'])
 df.set_index(df['date'], inplace=True)
 df.describe()
+``` 
 
 #### Figure 2: Comparative analysis of precipitations between the months of June and December.
 
