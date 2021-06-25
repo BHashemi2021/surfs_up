@@ -59,6 +59,13 @@ df.set_index(df['date'], inplace=True)
 df.describe()
 ```
 
+The results from the comparative analysis of precipitatons between the month of June and December showed that:
+ 
+ 1-  Comparing the average amount of precipitation betwen the two months show that is a roughly two-fold rainfall in December versus June  (Figure 2)
+ 
+ 2- The maximum amount of rain seems t be 2 inches more in December compared to June (Figure 2)
+
+
 ##### Figure 2: Comparative analysis of precipitations between the months of June and December.
 
 -----------------------
@@ -67,14 +74,14 @@ df.describe()
 
 ## Summary: 
 
-???????????? There is a high-level summary of the results and 
-
-???????????? there are two additional queries to perform to gather more weather data for June and December.
+All in all, the average temperatures between the months of June and December are good enough to go surfing and for an ice-cream. Nevertheless the rainfalls seem to be rather higher in December. The prospects for openning a surf shop seems to be relevant in June but eating ice-cream on a rainy December day needs a rather different taste. 
 
 
 
 
------------------------
+----------------------------------------------------------------------------------
+Hawaii is popular tourist destination all year round nearly 750 miles of coastlie, diverse landscape in the middle of a backdrop of mountains, warm tropical climate, and abundant public beaches. The best time to visit Hawaii is from May to October in the dry season, particularly in May and June, as the summer temperatures are not extreme. There is regular threat of thunderstorms and hurricanes (mostly non-detrucive) from July to December (1).
 
 
-
+##### References:
+1- Monthly weather forecast and climate Hawaii, USA, accessed June 25, 2021 at: https://www.weather-us.com/en/hawaii-usa-climate
