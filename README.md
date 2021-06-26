@@ -79,7 +79,9 @@ The results from the comparative analysis of precipitations between the month of
 
 ## Summary: 
 
-All in all, the average temperatures between the months of June and December are good enough to go surfing or for an ice-cream or both. Nevertheless, the rainfalls seem to be rather higher in December. The prospects for opening a surf shop seems to be relevant in June but eating ice-cream on a rainy December day needs a rather different taste but not that rare.
+All in all, the average temperatures between the months of June and December are good enough to go surfing or for an ice-cream or both. Nevertheless, the rainfalls seem to be rather higher in December. 
+
+The prospects for opening a surf shop seems to be relevant in June given there are other months with similar weather qualities and ideal for ice-cream business too but eating ice-cream on a rainy December day may need a rather different taste..
 
 
 
