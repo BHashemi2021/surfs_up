@@ -88,5 +88,5 @@ The prospects for opening a surf shop seems to be relevant in June given there a
 
 
 
-#### References:
+### References:
 1- Monthly weather forecast and climate Hawaii, USA, accessed June 25, 2021 at: https://www.weather-us.com/en/hawaii-usa-climate
